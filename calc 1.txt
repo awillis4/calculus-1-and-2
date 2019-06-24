@@ -1,0 +1,23 @@
+Calc 2 term 1.
+
+1. Solve: S(2(x^3))-(x^4)dx|-2->2
+
+2. Find the average value: f=1+cosx|0->pi
+
+3. Sketch this region and compute its area: y=(x^2), f=2x
+
+4. Solve: S(3lnx)/x)dx
+
+5. A spring has a natural rest length of 10cm.
+
+   The force required for the spring to reach 20cm in length is 6 joules.
+   
+   The force required for the spring to reach 30cm in length is ? joules.
+   
+   Find ?
+   
+6. Notice that y=(x^(1/2)) and f=(x^2).
+
+   Rotate the region about the y axis once using washers and again using cylindrical shells.
+
+   Compute and sketch this region using any method you prefer.   

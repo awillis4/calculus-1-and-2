@@ -1,0 +1,32 @@
+Ssec^5(x) + sec^7(x) + sec^9(x) + sec^11(x) dx
+
+1. Ssec^(2k+1)(x)dx = ((secxtanxdx)^-1)S(u^(2k+1))du
+
+= (((2k+1+1)secxtanxdx)^-1)*(sec^(2k+1+1)(x))/(2(k+1)) +C.
+
+=sec^(2(k+1))(x)/(4(k+1)^2)secxtanxdx
+
+2. S(1/cos^(2k+1)(x))dx = -(2k+1)sinxln|cosx|+C.
+
+3. Ssec^2(x)secx(1+tan^2(x))dx = Ssecx(sec^2(x)+sec^2(x)tan^2(x))dx =
+
+S(1+tan^2(x))^2/cosx dx=Ssecx+sin^2(x)sec^3(x)dx=Ssecx(1+sin^2(x)/cos^2(x))dx
+
+= -S(1/du)-(1/du)(du/u)(du/u)=-S(1/du)-(1/u)(du/u)=-S(1/du)-du/(u^2)=
+
+u+(1/u)+C = cosx + secx + c.
+
+But in differential equations:
+
+sec^5 + sec^7 + sec^9 + sec^11 = 1,
+
+sec^5(1 + cos^2 + cos^4 + cos^6)=1,
+
+1 + cos^2 + cos^4 + cos^6 = cos^5,
+
+cos^2 + cos^4 + cos^6 - cos^5 = -dx
+
+sin^2 + sin^4 + sin^6 - sin^5 = x
+
+cos^2=1; x:[cosx=secx]; -sinxScosxdx=1, sinx^2=1.
+
